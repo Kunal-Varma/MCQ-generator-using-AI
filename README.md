@@ -1,19 +1,18 @@
 # MCQ Generator
 
 ## Table of Content
+
   * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
-   * [Pipeline](#pipeline)
+  * [Pipeline](#pipeline)
   * [Installation](#installation)
   * [Run](#run)
   * [Running Docker Image](#running-docker-image)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
-  * [Bug / Feature Request](#bug-feature-request)
   * [Technologies Used](#technologies-used)
-  * [Team](#team)
   * [License](#license)
  
 
@@ -21,9 +20,10 @@
 ## Demo
 Link: [http://35.224.236.92:5000/](http://35.224.236.92:5000/)
 #### Image
-![Screenshot from 2020-09-22 21-45-46](https://user-images.githubusercontent.com/46081301/93909162-1c5da700-fd1d-11ea-85dd-0ee894b426a3.png)
-#### Video Demo
-[<img src="https://img.youtube.com/vi/Qn69ehOB9po/maxresdefault.jpg" width="50%">](https://youtu.be/Qn69ehOB9po)
+
+![Screenshot from 2020-09-23 16-41-37](https://user-images.githubusercontent.com/17935364/94005755-5d58c880-fdbc-11ea-8c8e-a7fceac2dba3.png)
+
+
 
 
 ## Overview
@@ -103,10 +103,8 @@ MCQ_Generator/
 ## To Do
 Using Abstract Summarization in order to produce difficullt multiple choice questions.
 
-## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/PushkakraSharma/MCQ_Generator/issues/new) by including your search query and the expected result.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/PushkakraSharma/MCQ_Generator/issues/new). Please include sample queries and their corresponding results.
+
 
 ## Technologies Used
 
@@ -117,9 +115,9 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width=200 height=200>](https://html.com/) [<img target="_blank" src="https://miro.medium.com/proxy/1*urMF0EgCJ7YbtK090Rdikw.png" width=200>](https://cloud.google.com/)
 
 ## Team
-[PUSHKARA SHARMA](https://www.linkedin.com/in/pushkara-sharma/)
+[Kunal Verma](https://www.linkedin.com/in/kunal-verma3836/)
 
-[SHUBHANKAR SINGH](https://www.linkedin.com/in/singh-shubhankar/)
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
