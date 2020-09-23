@@ -9,7 +9,6 @@
   * [Pipeline](#pipeline)
   * [Installation](#installation)
   * [Run](#run)
-  * [Running Docker Image](#running-docker-image)
   * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
@@ -63,12 +62,7 @@ python Flask_api.py
 ```
 __Note:-__ It may download some of the required data on first run.
 
-## Running Docker Image
-To run Docker Image make sure you have installed Docker in your system. If you haven't installed follow [this](https://docs.docker.com/engine/install/).
-Use this command to pull image.
-```bash
-docker pull pushkarasharma11/mcq_generator:1.1
-```
+
 
 ## Directory Tree 
 ```
